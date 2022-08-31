@@ -1,0 +1,37 @@
+body{
+    background-color: silver;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+    margin: 60px 275px 20px;
+    border: 1px solid black;
+    color:purple ;
+    background-color:black;
+    }
+table{
+    
+    margin: 50px 260px 20px;
+    width: 1000px;
+
+
+}
+.emptyspaces{
+    border-style: none;
+}
+td{
+    text-align:center;
+    border: 6px groove black;
+}
+.sBlock{
+    background-color: cyan;
+}
+.pBlock{
+    background-color: yellow;
+}
+.dBlock{
+    background-color: pink;
+}
+.fBlock{
+    background-color: blue;
+}
